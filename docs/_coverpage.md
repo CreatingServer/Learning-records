@@ -1,13 +1,11 @@
 ![logo](https://docsify.js.org/_media/icon.svg)
 
-# XiaoJ's 学习笔记
+# CreatingDocs
 
-> 记录个人所学、所悟、所感 :feet:
+> Creating的文档
 
-* 计算机网络、数据结构、操作系统
-* Java、LeetCode、机器学习   
-- and so on  :heartpulse:
+* 阅读关于Creating的一切
 
 
-[GitHub](https://github.com/XiaoJing-C/Learning-records.git)
-[Get Started](README.md)
+[CreatingBlog](http://www.creatingserver.top)
+[阅读文档](README.md)
